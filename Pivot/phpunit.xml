@@ -1,0 +1,7 @@
+<phpunit>
+  <testsuites>
+    <testsuite name="Object_Freezer">
+       <file>pivotTestCases/schedule/schedule.php</file>
+    </testsuite>
+  </testsuites>
+</phpunit>

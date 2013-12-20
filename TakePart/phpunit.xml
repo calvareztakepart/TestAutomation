@@ -1,0 +1,8 @@
+<phpunit>
+  <testsuites>
+    <testsuite name="Object_Freezer">
+      <!-- <file>TakepartTestCases/analytics/homepage.php</file>  -->
+      <file>TakepartTestCases/homepage/homepage.php</file>
+    </testsuite>
+  </testsuites>
+</phpunit>
